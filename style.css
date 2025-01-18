@@ -114,6 +114,7 @@
     background-image: url('/Desafio-CSS/imagens/woman-code.png');
     background-size:cover;
     height: 590px;
+    background-color: black;
 }
 #transform-world p {
     color: white;
