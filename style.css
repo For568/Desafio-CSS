@@ -99,7 +99,7 @@
     background-attachment: fixed;
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
-    background-image: url('/imagens/woman-code.png');
+    background-image: url('./imagens/woman-code.png');
     background-size: cover;
     height: auto; 
     min-height: 590px; 
