@@ -102,7 +102,7 @@
     min-height: 590px;
     overflow: hidden;
     background-attachment: fixed;
-    background-image: url('/imagens/woman-code.png');
+    background-image: url('imagens/woman-code.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: black;
