@@ -105,7 +105,7 @@
     background-image: url('/imagens/woman-code.png');
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: transparent;
+    background-color: black;
 }
 
 #transform-world p {
